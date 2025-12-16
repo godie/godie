@@ -1,6 +1,6 @@
-# Diego Mendoza Salas
+# Hi I'm Diego Mendoza
 
-> Software Engineer with 15+ years of experience designing and building scalable backend systems, distributed architectures, and cloud‑native applications. Skilled in Ruby, Java, TypeScript, Python, and PHP, with hands‑on expertise in frameworks such as Ruby on Rails, Spring Boot, Express.js, CakePHP, and React. Proven track record in developing secure REST APIs (JWT), microservices, and asynchronous messaging systems (Kafka, RabbitMQ, Sidekiq, Delayed Job). Experienced across AWS, GCP, and Azure, delivering resilient solutions for fintech, SaaS, and high‑growth platforms.
+Software Engineer with 15+ years of experience designing and building scalable backend systems, distributed architectures, and cloud‑native applications. Skilled in Ruby, Java, TypeScript, Python, and PHP, with hands‑on expertise in frameworks such as Ruby on Rails, Spring Boot, Express.js, CakePHP, and React. Proven track record in developing secure REST APIs (JWT), microservices, and asynchronous messaging systems (Kafka, RabbitMQ, Sidekiq, Delayed Job). Experienced across AWS, GCP, and Azure, delivering resilient solutions for fintech, SaaS, and high‑growth platforms.
 
 ## Currently
 
@@ -11,7 +11,7 @@
 ## Skills
 
 ```
-HTML • Ruby • TypeScript • Dart • JavaScript • Java • PHP • Objective-C • Python
+Rails • Ruby • TypeScript • Dart • JavaScript • Java • PHP • Objective-C • Python • Swift • Angular • React  
 ```
 
 ## Stats
