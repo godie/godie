@@ -16,8 +16,6 @@ Rails • Ruby • TypeScript • Dart • JavaScript • Java • PHP • Objec
 
 ## Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godie&theme=minimal)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=godie&theme=flat&no-frame=true&row=1&column=6)
 
 ## Let's Connect
