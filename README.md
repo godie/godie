@@ -16,7 +16,7 @@ Java • Ruby • TypeScript • JavaScript • React • AWS • Mysql • Reac
 
 ## Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=godie&theme=flat&no-frame=true&row=1&column=6)](https://github-trophies.vercel.app/?username=godie)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=godie)]
 
 ## Let's Connect
 
