@@ -1,6 +1,6 @@
 # Hi I'm Diego Mendoza
 
-Software Engineer with 15+ years of experience designing and building scalable backend systems, distributed architectures, and cloud‑native applications. Skilled in Ruby, Java, TypeScript, Python, and PHP, with hands‑on expertise in frameworks such as Ruby on Rails, Spring Boot, Express.js, CakePHP, and React. Proven track record in developing secure REST APIs (JWT), microservices, and asynchronous messaging systems (Kafka, RabbitMQ, Sidekiq, Delayed Job). Experienced across AWS, GCP, and Azure, delivering resilient solutions for fintech, SaaS, and high‑growth platforms.
+Senior Full-Stack Software Engineer with 15+ years of experience architecting high-performance web platforms and distributed cloud systems. Combines strong frontend engineering in React, TypeScript, and state management with deep backend expertise in Java (Spring Boot), Ruby on Rails, Mysql and PostgreSQL. Demonstrated success delivering secure microservices, event-driven pipelines (Kafka, Redis), and automated AWS infrastructure for fintech and high-growth SaaS environments
 
 ## Currently
 
@@ -11,15 +11,15 @@ Software Engineer with 15+ years of experience designing and building scalable b
 ## Skills
 
 ```
-Rails • Ruby • TypeScript • Dart • JavaScript • Java • PHP • Objective-C • Python • Swift • Angular • React  
+Java • Ruby • TypeScript • JavaScript • React • AWS • Mysql • React • PHP • NestJs • Spring boot • Rails 
 ```
 
 ## Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=godie&theme=flat&no-frame=true&row=1&column=6)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=godie&theme=flat&no-frame=true&row=1&column=6)](https://github-trophies.vercel.app/?username=godie)
 
 ## Let's Connect
 
 📧 **Email:** godie.mendoza@gmail.com  
-💼 **LinkedIn:** [Diego Mendoza Salas](https://www.linkedin.com/in/godieboy/)  
+💼 **LinkedIn:** [Diego Mendoza](https://www.linkedin.com/in/godieboy/)  
 🌐 **Website:** [https://github.com/godie](https://github.com/godie)
